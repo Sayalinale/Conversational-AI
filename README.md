@@ -50,10 +50,4 @@ The fine-tuned model demonstrated strong performance in matching ambiguous queri
 
 ## 🧑‍💻 Author
 
-- [Your Name]
-
----
-
-## 📃 License
-
-MIT License
+- Sayali Nale
